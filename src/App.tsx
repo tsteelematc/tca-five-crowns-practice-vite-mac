@@ -7,7 +7,7 @@ function App() {
       className='p-3'
     >
       <h1
-        className='text-2xl mb-3'
+        className='text-3xl font-bold mb-3'
       >
         Five Crowns Companion App
       </h1>
