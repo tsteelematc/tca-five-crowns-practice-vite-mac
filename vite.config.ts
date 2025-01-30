@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: "https://tsteelematc.github.io/tca-five-crowns-practice-vite-mac/"
 })
